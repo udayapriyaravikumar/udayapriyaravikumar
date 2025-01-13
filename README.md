@@ -57,11 +57,10 @@ Trained CNNs on Kaggle datasets to classify handwritten numbers and animal image
 
 - **Email:** [udayapriyaravikumar@gmail.com](mailto:udayapriyaravikumar@gmail.com)
 - **Phone:** +1 (249) 979-3097
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/udayapriya-ravikumar-73791615b/)
-
-## Resume
-
-You can download my resume [here](Resume_UdayapriyaRavikumar.pdf).
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/udayapriya-ravikumar-73791615b/)
+- **Portfolio**: [GitHub Portfolio](https://udayapriyaravikumar.github.io/udayapriyaravikumar/)
+- **Resume (PDF)**: [Download Resume](https://github.com/udayapriyaravikumar/udayapriyaravikumar/blob/main/Resume_UdayapriyaRavikumar.pdf)
+  
 
 ## License
 
